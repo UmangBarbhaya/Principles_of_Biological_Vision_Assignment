@@ -7,10 +7,12 @@ Umang Barbhaya
 M20CS017
 
 ##### Course Instructor: 
+
 Dr. Hiranmay Ghosh
 Guest Faculty
 Department of Computer Science & Engineering
 Indian Institute of Technology, Jodhpur
+
 ---
 #### Assignment-1: Modeling Early Vision
 Report has been attached inside Assignment-1 Folder
